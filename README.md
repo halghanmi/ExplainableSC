@@ -1,6 +1,6 @@
 # ExplainableSC - ExplanaSC Framework
 
-This repository documents the construction of the ExplanaSC framework, smart contract decisions taxonomy from literature review, the results of framework evaluations, and the practical application demonstrated through example use cases. The primary purpose of ExplanaSC is to support requirements engineers in defining essential information requirements for the creation of explainable smart contracts (XSC).
+This repository documents the construction of the ExplanaSC framework, taxonomy of smart contract decisions from literature reviews, the results of framework evaluations, and the practical application demonstrated through example use cases. The primary purpose of ExplanaSC is to support requirements engineers in defining essential information requirements for the creation of explainable smart contracts (XSC).
 
 
 ### The repository includes:
