@@ -1,12 +1,13 @@
 # ExplainableSC - ExplanaSC Framework
 
-This repository encompasses the work, evaluation, and example use cases of the ExplanaSC framework. Specifically designed to aid requirements engineers, the framework facilitates the definition of information requirements essential for generating explainable smart contracts (XSC).
+This repository documents the construction of the ExplanaSC framework, smart contract decisions taxonomy from literature review, the results of framework evaluations, and the practical application demonstrated through example use cases. The primary purpose of ExplanaSC is to support requirements engineers in defining essential information requirements for the creation of explainable smart contracts (XSC).
 
-## Framework Iterative Process and Literature Reviews Grouping
 
-The file includes:
-
+### The repository includes the following files:
+#### Framework Iterative Processes and SC Decisions Taxonomy 
 ### Aggregated Vulnerabilities
+
+Smart Contract Decisions Taxonomy from Literature Review
 
 A collection of aggregated vulnerabilities identified during the assessment process.
 
