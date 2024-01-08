@@ -3,9 +3,9 @@ pragma solidity ^0.8.0;
 
 contract FlightInsurance {
     address public owner;
-    uint256 public fixedInsuredAmount; // Fixed insured amount set in the constructor
-    uint256 public delayThreshold; // Threshold for delay in hours
-    uint256 public delayTime; // Actual delay time in hours
+    uint256 public fixedInsuredAmount; 
+    uint256 public delayThreshold; 
+    uint256 public delayTime; 
 
     mapping(address => mapping(uint256 => bool)) public hasPurchasedInsurance;
     mapping(address => mapping(uint256 => bool)) public claimStatus;
