@@ -18,6 +18,6 @@ This repository documents the construction of the ExplanaSC framework, taxonomy 
 - The proposed example scenarios with the corresponding smart contract code filename.
 
 #### 3- Contracts Folder: 
-- Smart contracts for the three propsed scenaros before applying the framework.
-- Smart contracts after applying the framework.
+- Smart contracts for the three proposed scenarios before defining informational requirements.
+- Smart contracts with implemented informatioal requirements defined using ExplanaSC framework.
 
