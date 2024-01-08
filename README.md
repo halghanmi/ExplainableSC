@@ -1,13 +1,10 @@
 # ExplainableSC - ExplanaSC Framework
 
+This repository encompasses the work, evaluation, and example use cases of the ExplanaSC framework. Specifically designed to aid requirements engineers, the framework facilitates the definition of information requirements essential for generating explainable smart contracts (XSC).
 
-# Smart Contract Assessment Approach
+## Framework Iterative Process and Literature Reviews Grouping
 
-This repository contains an approach for assessing the security of smart contracts. The assessment approach involves the use of various security analysis tools, a systematic selection process, and the mapping of design vulnerabilities to Common Weakness Enumerations (CWEs).
-
-## Assessment_Approach Folder
-
-The `Assessment_Approach` folder includes:
+The file includes:
 
 ### Aggregated Vulnerabilities
 
