@@ -4,7 +4,15 @@ This repository documents the construction of the ExplanaSC framework, smart con
 
 
 ### The repository includes the following files:
-#### Framework Iterative Processes and SC Decisions Taxonomy 
+#### 1- Framework Iterative Processes and SC Decisions Taxonomy 
+      
+        1- Blockchain and smart contract arctiture. 
+        2- Lists of resources used in the decision taxonomy and final table of grouping concepts 
+        3- the three iterations of framework construction. 
+        4- Final framework iteration with example application. 
+
+
+        
 ### Aggregated Vulnerabilities
 
 Smart Contract Decisions Taxonomy from Literature Review
